@@ -40,9 +40,6 @@ Landing Zone data query results
 <figure>
   <img src="images/customer_landing.png" alt="Customer Landing data" width=60% height=60%>
 </figure>
-<figure>
-  <img src="images/customer_landing2.png" alt="Customer Landing data" width=60% height=60%>
-</figure>
 
 *Accelerometer Landing*:
 
@@ -59,9 +56,6 @@ Trusted Zone Query results:
 
 <figure>
   <img src="images/customer_trusted.png" alt="Customer Truested data" width=60% height=60%>
-</figure>
-<figure>
-  <img src="images/customer_trusted2.png" alt="Customer Truested data" width=60% height=60%>
 </figure>
 
 ### Curated Zone
