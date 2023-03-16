@@ -1,6 +1,6 @@
 ines (40 sloc)  2.67 KB
 
-# Project: STEDI Human Balance Analytics
+# Project: STEDI Human Balance Analytics With Udacity
 
 ## Introduction
 
